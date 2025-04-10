@@ -1,0 +1,2 @@
+9 created and updated the fronend file structure as of now I might update with UI frames after after starting with backend it woud be a busy time to work with C# need to chekout tutorials how to do that
+Also will try to include messaging API for trial
